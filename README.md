@@ -64,8 +64,8 @@ Thank you for considering contributing to this project. To contribute, follow th
 
 Connect with us on social media for updates and announcements:
 
-- Twitter: [[@your_twitter_handle](https://twitter.com/SubashC09486801)](Subash Chandra Sahoo)
-- LinkedIn: [[Your Name](https://www.linkedin.com/in/subash-sahoo/)](https://www.linkedin.com/in/your-profile)
+- Twitter: [[@your_twitter_handle](https://twitter.com/SubashC09486801)](@SubashC09486801)
+- LinkedIn: [[Your Name](https://www.linkedin.com/in/subash-sahoo/)](Subash Chandra Sahoo)
 
 ## License
 
