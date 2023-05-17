@@ -22,10 +22,10 @@ This project is a React.js application that allows users to create, display, upd
 
 Follow these steps to install and run the application:
 
-1. Clone the repository from GitHub:
+1. Clone the repository from GitHub: https://github.com/Subash2622/ApexPlus-Technologies
 
 
-2. Navigate to the project directory:
+2. Navigate to the project directory: https://github.com/Subash2622/ApexPlus-Technologies
 
 
 3. Install the dependencies:
